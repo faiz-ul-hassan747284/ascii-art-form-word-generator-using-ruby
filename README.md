@@ -7,5 +7,5 @@ Creates Ascii art from the input string
 For input: `Ruby is Awesome`
 it'll print:
 
-![Output](https://github.com/faiz-ul-hassan747284/ascii-art-form-word-generator-using-ruby/output.png?raw=true)
+![Output](https://github.com/faiz-ul-hassan747284/ascii-art-form-word-generator-using-ruby/blob/main/output.png?raw=true)
 
